@@ -1,0 +1,2 @@
+C:\Users\Dell\source\repos\Basic program\Debug\Basic program.exe
+C:\Users\Dell\source\repos\Basic program\Debug\Basic program.pdb

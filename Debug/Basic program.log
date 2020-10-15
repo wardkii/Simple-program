@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Dell\source\repos\Basic program\Skola.h(11,23): warning C4101: 'obs': unreferenced local variable
+C:\Users\Dell\source\repos\Basic program\Skola.h(11,18): warning C4101: 'obv': unreferenced local variable
+C:\Users\Dell\source\repos\Basic program\Main.cpp(14,9): warning C4101: 'you': unreferenced local variable
+  Basic program.vcxproj -> C:\Users\Dell\source\repos\Basic program\Debug\Basic program.exe
